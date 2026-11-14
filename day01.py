@@ -1,4 +1,4 @@
-#DAILY DSA 
+#DAILY DSA ON PYTHON
 #day 1
 
 #1 Write a Python program that accepts your name, age and college name and prints them.
